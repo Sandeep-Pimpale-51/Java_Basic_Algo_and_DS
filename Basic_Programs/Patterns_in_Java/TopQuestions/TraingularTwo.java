@@ -18,5 +18,6 @@ public class TraingularTwo {
         for(int i=0;i<row;i++){
             System.out.println(res.substring(0,i+1));
         }
+        sc.close();
     }
 }
