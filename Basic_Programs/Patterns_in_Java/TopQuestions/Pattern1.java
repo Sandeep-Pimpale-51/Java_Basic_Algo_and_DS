@@ -1,3 +1,9 @@
+/* pattern
+    1 2 3 10 11 12
+    4 5 8 9 
+    6 7
+*/ 
+
 package Java_Basic_Algo_and_DS.Basic_Programs.Patterns_in_Java.TopQuestions;
 
 import java.util.ArrayList;
