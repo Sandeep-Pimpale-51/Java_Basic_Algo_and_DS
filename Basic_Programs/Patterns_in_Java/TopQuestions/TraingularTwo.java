@@ -1,4 +1,11 @@
 // Another method for traingular pattern with optimal solution O(n)
+/* pattern
+
+  1
+  1 1
+  1 1 1
+
+ */
 package Java_Basic_Algo_and_DS.Basic_Programs.Patterns_in_Java.TopQuestions;
 
 import java.util.Scanner;
