@@ -32,5 +32,8 @@ public class Pattern1 {
         }
 
         System.out.println(a);
+    
+        sc.close();
     }
+
 }
