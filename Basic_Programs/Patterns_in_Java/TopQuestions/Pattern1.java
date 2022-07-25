@@ -13,7 +13,8 @@ public class Pattern1 {
         Scanner sc = new Scanner(System.in);
         row=sc.nextInt();
 
-        // first pattern
+        // i=arryaList index number in arraylist a, j=position 
+        // first pattern   
         for(int i=0;i<row;++i){
             ArrayList<Integer> temp=new ArrayList<>();
             for(int j=0;j<row-i;++j){
